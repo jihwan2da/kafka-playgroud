@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# kafka 디렉토리로 이동 후
+bin/zookeeper-server-start.sh config/zookeeper.properties
